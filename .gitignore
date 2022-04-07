@@ -1,0 +1,14 @@
+# ruby gem
+*.gem
+Gemfile.lock
+
+# jekyll
+_drafts
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# bundler
+.bundle/
+vendor/
