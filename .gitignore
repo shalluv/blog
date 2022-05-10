@@ -3,11 +3,14 @@
 Gemfile.lock
 
 # jekyll
-_drafts
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+# draft
+_drafts
+images/drafts
 
 # bundler
 .bundle/
