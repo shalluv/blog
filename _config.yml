@@ -11,8 +11,8 @@ description: The More I Know The More I Realize I Want To Know More.
 logo:  "/assets/img/shalluv-colored.jpg"
 cover: "/assets/img/tired-bear.png"
 
-baseurl:
-url:
+baseurl: "/blog"
+url: "https://shalluv.github.io"
 
 owner: shalluv
 rights: CC BY 4.0
