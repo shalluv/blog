@@ -3,7 +3,7 @@ layout: empty/about
 title: Poonpipob Kunlayanathee
 ---
 
-### This is just a personal blog from 18 years old boy. So, please do not cite this blog as a source of any kind except for personal use. . . or do. I don't really care [as]. I'm JK please don't.
+### This is just a personal blog written by 18 years old boy. So, please do not cite this blog as a source of any kind. . . or do. I don't really care but I'll take no responsibility.
 
 ![](/assets/img/tired-bear.png)
 
