@@ -3,10 +3,10 @@ layout: empty/about
 title: Poonpipob Kunlayanathee
 ---
 
-### This is just a personal blog written by 18 years old boy. So, please do not cite this blog as a source of any kind. . . or do. I don't really care but I'll take no responsibility.
+### This is just a personal blog that an 18-year-old wrote. Please refrain from citing this site as a source of any kind, or do so if you must, know that I will not accept any responsibility.
 
 ![](/assets/img/tired-bear.png)
 
-I'm too lazy so this will be done later.
+Because of my laziness, this about page will be completed later.
 
-If you have any question, please contact me by [Email](mailto:leon555thai@gmail.com), or if you prefer to be informal, [Facebook](https://www.facebook.com/poonpipob).
+If you have any questions, please [email](mailto:leon555thai@gmail.com) me, or if you want to be more casual, use [Facebook](https://www.facebook.com/poonpipob).
