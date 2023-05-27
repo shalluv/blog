@@ -3,8 +3,8 @@ layout: post
 title:  "รถติดทำให้อุบัติเหตุลดลง(มั้ยนะ)"
 date:   2022-05-27 16:34:19 +0700
 tags: 
-  - science
-  - traffic congestion
+  - Science
+  - Polictics
 ---
 
 สำหรับคนขี้เกียจอ่าน: **ไม่**
