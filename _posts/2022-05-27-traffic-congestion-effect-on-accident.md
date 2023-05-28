@@ -67,6 +67,6 @@ tags:
 1. Martin, J.-L. Relationship between crash rate and hourly traffic flow on interurban motorways. *Accid. Anal. Prev*. **2002**, 34, 619–629.
 1. Deldot.gov. 2022. [online] Available at: <https://deldot.gov/Publications/manuals/traffic_counts/pdfs/2003/terminology.pdf> [Accessed 27 May 2022].
 
-[^1]: <a href="https://www.facebook.com/RoadsafetygroupThailand/videos/561913685548613/" target="_blank">สัมมนาวิชาการระดับชาติ เรื่องความปลอดภัยทางถนน ครั้งที่ 15 (ประมาณนาทีที่ 44)</a>
-[^2]: <a href="https://deldot.gov/Publications/manuals/traffic_counts/pdfs/2003/terminology.pdf" target="_blank">Annual Average Daily Traffic(ค่าเฉลี่ยปริมาณจราจรรายวันตลอดปี)</a>
-[^3]: <a href="https://deldot.gov/Publications/manuals/traffic_counts/pdfs/2003/terminology.pdf" target="_blank">Average Daily Traffic(ค่าเฉลี่ยปริมาณจราจรรายวัน)</a>
+[^1]: <a href="https://www.facebook.com/RoadsafetygroupThailand/videos/561913685548613/" target="_blank" rel="noopener noreferrer">สัมมนาวิชาการระดับชาติ เรื่องความปลอดภัยทางถนน ครั้งที่ 15 (ประมาณนาทีที่ 44)</a>
+[^2]: <a href="https://deldot.gov/Publications/manuals/traffic_counts/pdfs/2003/terminology.pdf" target="_blank" rel="noopener noreferrer">Annual Average Daily Traffic(ค่าเฉลี่ยปริมาณจราจรรายวันตลอดปี)</a>
+[^3]: <a href="https://deldot.gov/Publications/manuals/traffic_counts/pdfs/2003/terminology.pdf" target="_blank" rel="noopener noreferrer">Average Daily Traffic(ค่าเฉลี่ยปริมาณจราจรรายวัน)</a>
